@@ -17,7 +17,7 @@
     "super-queue": "0.0.6"
   },
   "devDependencies": {
-    "async": "^2.0.0-rc.6",
+    "async": "^2.0.0",
     "istanbul": "^0.4.2",
     "mocha": "^2.3.4",
     "should": "^9.0.2"
