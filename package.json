@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "debug": "^2.2.0",
-    "lei-utils": "^2.0.3",
+    "lei-utils": "^2.2.0",
     "super-queue": "0.1.0"
   },
   "devDependencies": {
