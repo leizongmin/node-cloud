@@ -12,7 +12,7 @@
     "node": ">= 4.0.0"
   },
   "dependencies": {
-    "debug": "^2.2.0",
+    "debug": "^2.6.8",
     "lei-utils": "^3.0.1",
     "super-queue": "0.1.0"
   },
